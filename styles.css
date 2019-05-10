@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+.header {
+  font-size: 3em;
+  text-align: center;
+  color: #f00;
+  width: 25%;
+  margin: 2% 25%;
+}
+
+.main {
+  display: block;
+  align-content: 
+}
+
+img {
+    margin: 1%;
+    width: 25%;
+    justify-content: space-between;
+}
